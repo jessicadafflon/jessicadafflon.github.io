@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jessicadafflon.github.io/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/tag/machine-learning/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/tag/neuroscience/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/project/tpot-age/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/project/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/tags/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jessicadafflon.github.io/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -48,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://jessicadafflon.github.io/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jessicadafflon.github.io/author/mathew-a-harris/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -79,11 +104,6 @@
   
   <url>
     <loc>https://jessicadafflon.github.io/author/simon-r-cox/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jessicadafflon.github.io/tags/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,22 +203,23 @@
   </url>
   
   <url>
-    <loc>https://jessicadafflon.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jessicadafflon.github.io/project/age-comparison/</loc>
   </url>
   
   <url>
-    <loc>https://jessicadafflon.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jessicadafflon.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://jessicadafflon.github.io/project/avatar/</loc>
   </url>
   
   <url>
     <loc>https://jessicadafflon.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/project/social-dcm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jessicadafflon.github.io/project/neuroml/</loc>
   </url>
   
   <url>

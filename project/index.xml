@@ -5,7 +5,7 @@
     <link>https://jessicadafflon.github.io/project/</link>
       <atom:link href="https://jessicadafflon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Jessica Dafflon</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Jessica Dafflon</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,15 +13,81 @@
     </image>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://jessicadafflon.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jessicadafflon.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Predicting Age from Neuroimaging using an Automated Machine Learning approach (autoML)</title>
+      <link>https://jessicadafflon.github.io/project/tpot-age/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/tpot-age/</guid>
+      <description>&lt;p&gt;The use of machine learning (ML) algorithms has significantly increased in neuroscience. However, from the vast extent of possible ML algorithms, which one is the optimal model to predict the target variable? What are the hyperparameters for such a model? Given the plethora of possible answers to these questions, in the last years, automated ML (autoML) has been gaining attention. Here, we apply an autoML library called Tree‐based Pipeline Optimisation Tool (TPOT) which uses a tree‐based representation of ML pipelines and conducts a genetic programming‐based approach to find the model and its hyperparameters that more closely predicts the subject&amp;rsquo;s true age. To explore autoML and evaluate its efficacy within neuroimaging data sets, we chose a problem that has been the focus of previous extensive study: brain age prediction. Without any prior knowledge, TPOT was able to scan through the model space and create pipelines that outperformed the state‐of‐the‐art accuracy for Freesurfer‐based models using only thickness and volume information for anatomical structure. In particular, we compared the performance of TPOT (mean absolute error [MAE]: 4.612 ± .124 years) and a relevance vector regression (MAE 5.474 ± .140 years). TPOT also suggested interesting combinations of models that do not match the current most used models for brain prediction but generalise well to unseen data. AutoML showed promising results as a data‐driven approach to find optimal models for neuroimaging applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comparison between machine learning to predict brain age</title>
+      <link>https://jessicadafflon.github.io/project/age-comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/age-comparison/</guid>
+      <description>&lt;p&gt;Different algorithms have been used to predict brain age from structural images.
+However, every study uses different algorithms on different datasets, making it
+difficult to compare the results among each other. This project aimed to bridge
+this gap and rigorously compare the most commonly used algorithms to predict
+brain age and to compare the impact of using different inputs on the precision
+of the analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Embodied Simulation of the Human Brain</title>
+      <link>https://jessicadafflon.github.io/project/avatar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/avatar/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;Although different computational models have been developed to investigate
+the neural dynamics of the brain, less is known about the brain-environment
+interaction and how the latter influence brain dynamics. Therefore,
+we developed a virtual agent, whose activity is driven by a computational
+model, and analysed how the environment
+influenced its neural dynamics. The interaction of all these elements is illustrated in the video found on the top of this page
+ My role in this project was to port the
+model from C# into Python, develop methods to analyse the virtual agent&#39;s
+behaviour, and study its neural dynamics using graph
+theory measures. The linked poster also provide a detailed description of the
+project.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Models of Social Learning and Decision Making</title>
+      <link>https://jessicadafflon.github.io/project/social-dcm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/social-dcm/</guid>
+      <description>&lt;p&gt;This project aimed to develop and test computational models
+of learning that quantify how people learn under social uncertainty .We
+used a combination of methods, which included: hierarchical Bayesian
+model of learning, model-based fMRI and DCMs.
+The poster on this project description summaries the main results of this
+project. Our
+results showed the importance of the neurotransmitter dopamine in updating prediction errors
+in the social context.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementation of Large-scale Brain Simulations on NeuroML</title>
+      <link>https://jessicadafflon.github.io/project/neuroml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/neuroml/</guid>
+      <description>&lt;p&gt;This project aimed to implement Large-scale Brain Simulations,
+which are models that simulate the interaction between different
+brain areas, in NeuroML.
+NeuroML is a tool that standardises commonly used parameters to describe
+neuroscience models. This standardisation is essential for making
+computational models used in neuroscience easily shareable and
+reproducible. I have implemented and open-sourced three different
+models: 1) Wilson and Cowan, 2) delMolino, and 2) MejiasEtAl2016.
+A detailed description of the analysis can be found on the pdf linked to this
+page, which was presented at the CNS 2019 in Barcelona. With this project, I
+learned how to use numba, intensively used git and learned how to
+collaborate on an open science project.&lt;/p&gt;
 </description>
     </item>
     

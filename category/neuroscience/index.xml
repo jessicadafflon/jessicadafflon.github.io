@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuroscience | Jessica Dafflon</title>
+    <link>https://jessicadafflon.github.io/category/neuroscience/</link>
+      <atom:link href="https://jessicadafflon.github.io/category/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020` Jessica Dafflon</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_2.png</url>
+      <title>Neuroscience</title>
+      <link>https://jessicadafflon.github.io/category/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>Avatar</title>
+      <link>https://jessicadafflon.github.io/project/avatar/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/avatar/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;Although different computational models have been developed to investigate
+the neural dynamics of the brain, less is known about the brain-environment
+interaction and how the latter influence brain dynamics. Therefore,
+we developed a virtual agent, whose activity is driven by a computational
+model, and analysed how the environment
+influenced its neural dynamics. The interaction of all these elements is illustrated in the video found on the top of this page
+ My role in this project was to port the
+model from C# into Python, develop methods to analyse the virtual agent&#39;s
+behaviour, and study its neural dynamics using graph
+theory measures. The linked poster also provide a detailed description of the
+project.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
