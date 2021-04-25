@@ -1,237 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jessicadafflon.github.io/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/tag/machine-learning/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/tag/neuroscience/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/tpot-age/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/tags/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/tag/age-prediction-automated-machine-learning-cortical-features-neuroimaging-predictive-modelling-structural-imaging/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication/dafflon-2020-an/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/andrew-m-mcintosh/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/authors/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/federico-turkheimer/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/heather-c-whalley/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/james-h-cole/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/jessica-dafflon/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/mathew-a-harris/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/peter-j-hellyer/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication_types/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/robert-leech/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/simon-r-cox/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/walter-h-l-pinaya/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication/savulich-2019-acute/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/annette-b-bruhl/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/barbara-j-sahakian/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/frank-h-hezemans/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/george-savulich/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/norah-schulten/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/sophia-van-ghesel-grothe/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/trevor-w-robbins/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/angie-a-kehagia/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/tag/bayesian-inference-brain-computational-models-emergence-free-energy-principle-integrated-information-theory-multi-scale-oscillators-strong-emergence-weak-emergence/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/publication/turkheimer-2019-conflicting/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/federico-e-turkheimer/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/jakub-vohryzek/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/jessica-de-faria-dafflon/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/louis-david-lord/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/mick-brammer/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/paul-expert/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/author/peter-hellyer/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/age-comparison/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/avatar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/social-dcm/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/project/neuroml/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jessicadafflon.github.io/author/jessica-dafflon/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://jessicadafflon.github.io/author/jessica-dafflon-phd/</loc>
+  </url><url>
     <loc>https://jessicadafflon.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jessicadafflon.github.io/talk/</loc>
   </url>
-  
 </urlset>
