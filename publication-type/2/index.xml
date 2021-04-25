@@ -5,12 +5,20 @@
     <link>https://jessicadafflon.github.io/publication-type/2/</link>
       <atom:link href="https://jessicadafflon.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2021` Jessica Dafflon</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2021` Jessica Dafflon</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://jessicadafflon.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Brain age prediction: A comparison between machine learning models using region- and voxel-based morphometric data</title>
+      <link>https://jessicadafflon.github.io/publication/baecker-2021-brain/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/publication/baecker-2021-brain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An automated machine learning approach to predict brain age from cortical anatomical measures</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>Acute anxiety and autonomic arousal induced by CO2 inhalation impairs prefrontal executive functions in healthy humans</title>
-      <link>https://jessicadafflon.github.io/publication/savulich-2019-acute/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jessicadafflon.github.io/publication/savulich-2019-acute/</guid>
+      <title>Neuroimaging: into the Multiverse</title>
+      <link>https://jessicadafflon.github.io/publication/dafflon-2020-neuroimaging-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/publication/dafflon-2020-neuroimaging-/</guid>
       <description></description>
     </item>
     

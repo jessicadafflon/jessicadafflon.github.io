@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vince D. Calhoun | Jessica Dafflon</title>
+    <link>https://jessicadafflon.github.io/author/vince-d.-calhoun/</link>
+      <atom:link href="https://jessicadafflon.github.io/author/vince-d.-calhoun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vince D. Calhoun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2021` Jessica Dafflon</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_2.png</url>
+      <title>Vince D. Calhoun</title>
+      <link>https://jessicadafflon.github.io/author/vince-d.-calhoun/</link>
+    </image>
+    
+    <item>
+      <title>Brain age prediction: A comparison between machine learning models using region- and voxel-based morphometric data</title>
+      <link>https://jessicadafflon.github.io/publication/baecker-2021-brain/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/publication/baecker-2021-brain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
