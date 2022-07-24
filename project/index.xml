@@ -5,9 +5,9 @@
     <link>https://jessicadafflon.github.io/project/</link>
       <atom:link href="https://jessicadafflon.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2022` Jessica Dafflon</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jessicadafflon.github.io/media/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://jessicadafflon.github.io/project/</link>
     </image>
@@ -24,7 +24,7 @@
     <item>
       <title>A comparison between machine learning to predict brain age</title>
       <link>https://jessicadafflon.github.io/project/age-comparison/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://jessicadafflon.github.io/project/age-comparison/</guid>
       <description>&lt;p&gt;Different algorithms have been used to predict brain age from structural images.
 However, every study uses different algorithms on different datasets, making it

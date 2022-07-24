@@ -5,9 +5,9 @@
     <link>https://jessicadafflon.github.io/tag/machine-learning/</link>
       <atom:link href="https://jessicadafflon.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2022` Jessica Dafflon</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jessicadafflon.github.io/images/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jessicadafflon.github.io/media/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://jessicadafflon.github.io/tag/machine-learning/</link>
     </image>
@@ -18,6 +18,40 @@
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jessicadafflon.github.io/project/tpot-age/</guid>
       <description>&lt;p&gt;The use of machine learning (ML) algorithms has significantly increased in neuroscience. However, from the vast extent of possible ML algorithms, which one is the optimal model to predict the target variable? What are the hyperparameters for such a model? Given the plethora of possible answers to these questions, in the last years, automated ML (autoML) has been gaining attention. Here, we apply an autoML library called Tree‐based Pipeline Optimisation Tool (TPOT) which uses a tree‐based representation of ML pipelines and conducts a genetic programming‐based approach to find the model and its hyperparameters that more closely predicts the subject&amp;rsquo;s true age. To explore autoML and evaluate its efficacy within neuroimaging data sets, we chose a problem that has been the focus of previous extensive study: brain age prediction. Without any prior knowledge, TPOT was able to scan through the model space and create pipelines that outperformed the state‐of‐the‐art accuracy for Freesurfer‐based models using only thickness and volume information for anatomical structure. In particular, we compared the performance of TPOT (mean absolute error [MAE]: 4.612 ± .124 years) and a relevance vector regression (MAE 5.474 ± .140 years). TPOT also suggested interesting combinations of models that do not match the current most used models for brain prediction but generalise well to unseen data. AutoML showed promising results as a data‐driven approach to find optimal models for neuroimaging applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comparison between machine learning to predict brain age</title>
+      <link>https://jessicadafflon.github.io/project/age-comparison/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/age-comparison/</guid>
+      <description>&lt;p&gt;Different algorithms have been used to predict brain age from structural images.
+However, every study uses different algorithms on different datasets, making it
+difficult to compare the results among each other. This project aimed to bridge
+this gap and rigorously compare the most commonly used algorithms to predict
+brain age and to compare the impact of using different inputs on the precision
+of the analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Embodied Simulation of the Human Brain</title>
+      <link>https://jessicadafflon.github.io/project/avatar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/project/avatar/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;Although different computational models have been developed to investigate
+the neural dynamics of the brain, less is known about the brain-environment
+interaction and how the latter influence brain dynamics. Therefore,
+we developed a virtual agent, whose activity is driven by a computational
+model, and analysed how the environment
+influenced its neural dynamics. The interaction of all these elements is illustrated in the video found on the top of this page
+ My role in this project was to port the
+model from C# into Python, develop methods to analyse the virtual agent&#39;s
+behaviour, and study its neural dynamics using graph
+theory measures. The linked poster also provide a detailed description of the
+project.
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
