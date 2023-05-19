@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jessica Dafflon</title>
+    <link>https://jessicadafflon.github.io/publication-type/1/</link>
+      <atom:link href="https://jessicadafflon.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jessicadafflon.github.io/media/icon_hudbe2ddf2071e813b9f9498f7e521dca0_56734_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://jessicadafflon.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Brain imaging generation with latent diffusion models</title>
+      <link>https://jessicadafflon.github.io/publication/pinaya-2022-brain/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jessicadafflon.github.io/publication/pinaya-2022-brain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
